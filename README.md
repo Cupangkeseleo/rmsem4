@@ -1,1 +1,1 @@
-"# rmsem4" 
+In this project we will be using 4 type of machine learning model for sentiment analysis of steam reviews on the game terraria to inform live service continuation, sequel, or prequel development in game studios. 
